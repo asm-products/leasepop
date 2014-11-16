@@ -1,8 +1,8 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
-	"license": "MIT",
+	"name": "asm-products/leasepop",
+	"description": "LeasePop",
+	"keywords": ["property", "management", "rent", "payment"],
+	"license": "AGPL v3.0",
 	"type": "project",
 	"require": {
 		"laravel/framework": "4.2.*"
