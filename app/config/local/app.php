@@ -16,3 +16,5 @@ return array(
 	'debug' => true,
 
 );
+Config::get('confide::signup_confirm');
+Config::set('confide::signup_confirm','false');
